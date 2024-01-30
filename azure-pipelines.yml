@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: own_machine
+pool: DESKTOP-M93458R
 
 steps:
 - task: Maven@3
